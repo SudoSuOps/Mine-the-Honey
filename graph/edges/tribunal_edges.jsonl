@@ -1,0 +1,15 @@
+{"source":"tribunal_grading_v1","target":"tribunal","relationship":"expands"}
+{"source":"tribunal_grading_v1","target":"hive_grade","relationship":"defines"}
+{"source":"tribunal_grading_v1","target":"block_grade","relationship":"defines"}
+{"source":"tribunal_grading_v1","target":"hosting_grade","relationship":"defines"}
+{"source":"hive_grade_formula","target":"hive_grade","relationship":"calculates"}
+{"source":"block_grade_formula","target":"block_grade","relationship":"calculates"}
+{"source":"hosting_reputation","target":"hosting_grade","relationship":"calculates"}
+{"source":"propolis_inspection","target":"propolis","relationship":"inspects"}
+{"source":"propolis_inspection","target":"scarred_s9","relationship":"can_create"}
+{"source":"royal_jelly_pool_eligibility","target":"royal_jelly","relationship":"gates_access_to"}
+{"source":"royal_jelly_pool_eligibility","target":"hive_grade","relationship":"requires"}
+{"source":"royal_jelly_pool_eligibility","target":"queen","relationship":"requires_upgrade_from"}
+{"source":"hive_grade","target":"royal_jelly_pool_eligibility","relationship":"unlocks"}
+{"source":"block_grade","target":"tribunal_marks","relationship":"rewards"}
+{"source":"genesis_candidate","target":"genesis_node","relationship":"progresses_toward"}

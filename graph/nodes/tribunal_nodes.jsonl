@@ -1,0 +1,10 @@
+{"id":"tribunal_grading_v1","type":"doc_node","label":"Tribunal Grading V1","doc":"docs/tribunal/tribunal-grading-v1.md","description":"Core grading system."}
+{"id":"hive_grade_formula","type":"doc_node","label":"Hive Grade Formula","doc":"docs/tribunal/hive-grade-formula.md","description":"Formula for scoring player Hive quality."}
+{"id":"block_grade_formula","type":"doc_node","label":"Block Grade Formula","doc":"docs/tribunal/block-grade-formula.md","description":"Formula for scoring block quality."}
+{"id":"hosting_reputation","type":"doc_node","label":"Hosting Reputation","doc":"docs/tribunal/hosting-reputation.md","description":"Trust score for player hosting."}
+{"id":"propolis_inspection","type":"doc_node","label":"Propolis Inspection","doc":"docs/tribunal/propolis-inspection.md","description":"Tribunal process for inspecting failed miners."}
+{"id":"royal_jelly_pool_eligibility","type":"doc_node","label":"Royal Jelly Pool Eligibility","doc":"docs/tribunal/royal-jelly-pool-eligibility.md","description":"Eligibility rules for the elite Royal Jelly Pool."}
+{"id":"hive_grade","type":"tribunal_grade","label":"Hive Grade","description":"Overall efficiency and stability grade."}
+{"id":"block_grade","type":"tribunal_grade","label":"Block Grade","description":"Quality grade for a found block."}
+{"id":"hosting_grade","type":"tribunal_grade","label":"Hosting Grade","description":"Trust grade for hosting operations."}
+{"id":"genesis_candidate","type":"tribunal_status","label":"Genesis Candidate","description":"Potential eligibility for Genesis proof path."}

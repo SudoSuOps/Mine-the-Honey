@@ -1,0 +1,16 @@
+{"source":"nectar_node_catalog_v1","target":"dusty_nectar_s1","relationship":"lists"}
+{"source":"nectar_node_catalog_v1","target":"vintage_nectar_s9","relationship":"lists"}
+{"source":"nectar_node_catalog_v1","target":"nectar_s19j_pro","relationship":"lists"}
+{"source":"nectar_node_catalog_v1","target":"bombus_heatcore","relationship":"lists"}
+{"source":"nectar_node_catalog_v1","target":"osmia_lowvolt","relationship":"lists"}
+{"source":"nectar_node_catalog_v1","target":"royal_hydro_node","relationship":"lists"}
+{"source":"nectar_node_catalog_v1","target":"blackcomb_titan","relationship":"lists"}
+{"source":"nectar_node_catalog_v1","target":"genesis_node","relationship":"lists"}
+{"source":"nectar_node_stats","target":"nectar_nodes","relationship":"defines_stats_for"}
+{"source":"rarity_tiers","target":"nectar_node_catalog_v1","relationship":"classifies"}
+{"source":"propolis_failure_states","target":"propolis","relationship":"defines"}
+{"source":"vintage_nectar_s9","target":"scarred_s9","relationship":"can_recover_as"}
+{"source":"bombus_heatcore","target":"propolis","relationship":"high_risk_for"}
+{"source":"osmia_lowvolt","target":"heat_propagation","relationship":"low_heat_for"}
+{"source":"royal_hydro_node","target":"royal_jelly_pool_eligibility","relationship":"supports"}
+{"source":"genesis_node","target":"genesis_miner","relationship":"represents"}

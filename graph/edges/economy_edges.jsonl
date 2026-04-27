@@ -1,0 +1,16 @@
+{"source":"economy_v1","target":"honeycoin","relationship":"defines"}
+{"source":"economy_v1","target":"pollen","relationship":"defines"}
+{"source":"economy_v1","target":"royal_jelly","relationship":"defines"}
+{"source":"economy_v1","target":"propolis","relationship":"defines"}
+{"source":"economy_v1","target":"wax","relationship":"defines"}
+{"source":"economy_v1","target":"nectar_shards","relationship":"defines"}
+{"source":"economy_v1","target":"tribunal_marks","relationship":"defines"}
+{"source":"economy_v1","target":"speculative_honey","relationship":"defines"}
+{"source":"honeycoin_source_active_mining","target":"honeycoin","relationship":"generates"}
+{"source":"honeycoin_source_offline_claim","target":"honeycoin","relationship":"generates"}
+{"source":"honeycoin_sink_repairs","target":"honeycoin","relationship":"spends"}
+{"source":"honeycoin_sink_power","target":"honeycoin","relationship":"spends"}
+{"source":"royal_jelly_source_queen_feeding","target":"royal_jelly","relationship":"generates"}
+{"source":"royal_jelly_sink_queen_upgrades","target":"royal_jelly","relationship":"spends"}
+{"source":"halving_system","target":"honeycoin","relationship":"adjusts_rewards_for"}
+{"source":"halving_system","target":"royal_jelly","relationship":"increases_importance_of"}

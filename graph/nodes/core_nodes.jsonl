@@ -11,3 +11,4 @@
 {"id":"heat_propagation","type":"mechanic","label":"Heat Propagation","description":"Spatial heat system for racks and miners."}
 {"id":"offline_mining","type":"mechanic","label":"Offline Mining","description":"Bees continue earning while player is away."}
 {"id":"hosting","type":"mechanic","label":"Hosting","description":"Players rent rack space to other players."}
+{"id":"power","type":"mechanic","label":"Power","description":"Electrical capacity and power draw system for the Hive."}

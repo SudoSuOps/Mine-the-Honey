@@ -1,0 +1,13 @@
+{"id":"nectar_node_stats","type":"doc_node","label":"Nectar Node Stats","doc":"docs/hardware/nectar-node-stats.md","description":"Core stat model for Nectar Nodes."}
+{"id":"nectar_node_catalog_v1","type":"doc_node","label":"Nectar Node Catalog V1","doc":"docs/hardware/nectar-node-catalog-v1.md","description":"First collectible hardware catalog."}
+{"id":"dusty_nectar_s1","type":"nectar_node","label":"Dusty Nectar S1","family":"Apis","rarity":"Starter","description":"First garage miner."}
+{"id":"vintage_nectar_s9","type":"nectar_node","label":"Vintage Nectar S9","family":"Apis","rarity":"Uncommon","description":"Cheap, loud, hot, nostalgic classic node."}
+{"id":"nectar_s19j_pro","type":"nectar_node","label":"Nectar S19J-Pro","family":"Apis","rarity":"Epic","description":"Reliable high-output midgame node."}
+{"id":"bombus_heatcore","type":"nectar_node","label":"Bombus HeatCore","family":"Bombus","rarity":"Epic","description":"High hash, high heat node."}
+{"id":"osmia_lowvolt","type":"nectar_node","label":"Osmia LowVolt","family":"Osmia","rarity":"Epic","description":"Efficient low-power node."}
+{"id":"royal_hydro_node","type":"nectar_node","label":"Royal Hydro Node","family":"Melipona","rarity":"Legendary","description":"Elite efficiency hydro node."}
+{"id":"blackcomb_titan","type":"nectar_node","label":"BlackComb Titan","family":"Xylocopa","rarity":"Mythic","description":"Elite industrial node."}
+{"id":"genesis_node","type":"nectar_node","label":"Genesis Node","family":"Genesis","rarity":"Genesis","description":"Earn-only origin miner."}
+{"id":"scarred_s9","type":"nectar_node_variant","label":"Scarred S9","family":"Halictus","rarity":"Rare","description":"Rare recovery variant from Propolis inspection."}
+{"id":"rarity_tiers","type":"doc_node","label":"Rarity Tiers","doc":"docs/hardware/rarity-tiers.md","description":"Rarity system for collection, trade, and visual identity."}
+{"id":"propolis_failure_states","type":"doc_node","label":"Propolis Failure States","doc":"docs/hardware/propolis-failure-states.md","description":"Failure, quarantine, recovery, salvage, and rare variant system."}

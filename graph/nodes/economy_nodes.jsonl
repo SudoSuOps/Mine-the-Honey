@@ -1,0 +1,12 @@
+{"id":"economy_v1","type":"doc_node","label":"Economy V1","doc":"docs/economy/economy-v1.md","description":"Core economy design for HoneyCoin, Pollen, Propolis, Royal Jelly, and social loops."}
+{"id":"honeycoin_source_active_mining","type":"economy_source","label":"Active Mining","currency":"HoneyCoin","description":"Primary HoneyCoin source from Nectar Node mining."}
+{"id":"honeycoin_source_offline_claim","type":"economy_source","label":"Offline Claim","currency":"HoneyCoin","description":"Return-rate source from Bees working while player is away."}
+{"id":"honeycoin_sink_repairs","type":"economy_sink","label":"Repairs","currency":"HoneyCoin","description":"HoneyCoin sink for restoring damaged or Propolis-state miners."}
+{"id":"honeycoin_sink_power","type":"economy_sink","label":"Power Upgrades","currency":"HoneyCoin","description":"HoneyCoin sink for increasing Hive electrical capacity."}
+{"id":"royal_jelly_source_queen_feeding","type":"economy_source","label":"Queen Feeding","currency":"Royal Jelly","description":"Prestige pathway where feeding the Queen creates long-term progression."}
+{"id":"royal_jelly_sink_queen_upgrades","type":"economy_sink","label":"Queen Upgrades","currency":"Royal Jelly","description":"Permanent upgrades purchased with Royal Jelly."}
+{"id":"wax","type":"currency","label":"Wax","description":"Crafting material earned from quests and salvaging old gear."}
+{"id":"nectar_shards","type":"currency","label":"Nectar Shards","description":"Upgrade material earned from events, trading, and rare drops."}
+{"id":"tribunal_marks","type":"currency","label":"Tribunal Marks","description":"Skill/status currency earned from high-grade Tribunal results."}
+{"id":"speculative_honey","type":"currency","label":"Speculative Honey","description":"High-risk high-reward event yield."}
+{"id":"halving_system","type":"economy_mechanic","label":"Halving System","doc":"docs/economy/halving.md","description":"Long-term cycle where base rewards fall and efficiency matters more."}

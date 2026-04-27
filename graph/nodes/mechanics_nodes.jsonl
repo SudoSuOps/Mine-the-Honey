@@ -1,0 +1,9 @@
+{"id":"hash_power_heat_loop","type":"doc_node","label":"Hash Power Heat Loop","doc":"docs/mechanics/hash-power-heat-loop.md","description":"Core triangle balancing hash, power, and heat."}
+{"id":"block_found_events","type":"doc_node","label":"Block Found Events","doc":"docs/mechanics/block-found-events.md","description":"Main payout and dopamine event system."}
+{"id":"queen_feeding","type":"doc_node","label":"Queen Feeding","doc":"docs/mechanics/queen-feeding.md","description":"Central progression system for feeding the Queen and unlocking memory upgrades."}
+{"id":"trading_system","type":"doc_node","label":"Trading System","doc":"docs/mechanics/trading-system.md","description":"Social economy loop for trading Nectar Nodes and rare variants."}
+{"id":"player_hosting_loop","type":"doc_node","label":"Player Hosting Loop","doc":"docs/mechanics/player-hosting-loop.md","description":"Players host other players' miners in their Hive."}
+{"id":"block_storm","type":"event","label":"Block Storm","description":"Server-wide co-op block event where all players contribute hashrate."}
+{"id":"difficulty_shift","type":"event","label":"Difficulty Shift","description":"Network difficulty pacing event."}
+{"id":"heatwave","type":"event","label":"Heatwave","description":"Cooling stress event."}
+{"id":"offline_claim","type":"mechanic","label":"Offline Claim","description":"Return screen where players claim yield from Bees working while away."}

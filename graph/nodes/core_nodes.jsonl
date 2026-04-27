@@ -1,0 +1,13 @@
+{"id":"hive","type":"concept","label":"Hive","description":"Player-owned datacenter/base that starts as a garage."}
+{"id":"swarm","type":"concept","label":"Swarm","description":"The player's fleet of mining hardware."}
+{"id":"nectar_nodes","type":"hardware_class","label":"Nectar Nodes","description":"Mining hardware units."}
+{"id":"honeycoin","type":"currency","label":"HoneyCoin","description":"Main soft currency and bankable yield."}
+{"id":"pollen","type":"currency","label":"Pollen","description":"Work-in-progress block output."}
+{"id":"propolis","type":"state","label":"Propolis","description":"Broken or quarantined miner state."}
+{"id":"royal_jelly","type":"currency","label":"Royal Jelly","description":"Prestige and rare upgrade currency."}
+{"id":"queen","type":"system","label":"Queen","description":"Central Hive intelligence and upgrade core."}
+{"id":"tribunal","type":"system","label":"Tribunal","description":"Grading and audit layer."}
+{"id":"genesis_miner","type":"mythic_item","label":"Genesis Miner","description":"Earn-only origin miner."}
+{"id":"heat_propagation","type":"mechanic","label":"Heat Propagation","description":"Spatial heat system for racks and miners."}
+{"id":"offline_mining","type":"mechanic","label":"Offline Mining","description":"Bees continue earning while player is away."}
+{"id":"hosting","type":"mechanic","label":"Hosting","description":"Players rent rack space to other players."}

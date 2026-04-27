@@ -1,0 +1,23 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Exports / temporary generated files
+tmp/
+.cache/
+
+# Roblox Studio local/temp files
+*.rbxl.lock

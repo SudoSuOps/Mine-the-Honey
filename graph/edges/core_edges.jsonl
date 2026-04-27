@@ -1,0 +1,13 @@
+{"source":"hive","target":"nectar_nodes","relationship":"contains"}
+{"source":"nectar_nodes","target":"pollen","relationship":"produce"}
+{"source":"pollen","target":"honeycoin","relationship":"converts_to"}
+{"source":"nectar_nodes","target":"heat_propagation","relationship":"generate_heat_for"}
+{"source":"heat_propagation","target":"propolis","relationship":"can_cause"}
+{"source":"honeycoin","target":"queen","relationship":"feeds"}
+{"source":"royal_jelly","target":"queen","relationship":"upgrades"}
+{"source":"tribunal","target":"hive","relationship":"grades"}
+{"source":"tribunal","target":"nectar_nodes","relationship":"audits"}
+{"source":"genesis_miner","target":"tribunal","relationship":"requires_proof_from"}
+{"source":"offline_mining","target":"honeycoin","relationship":"generates"}
+{"source":"hosting","target":"hive","relationship":"uses"}
+{"source":"hosting","target":"nectar_nodes","relationship":"hosts"}
